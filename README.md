@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/techiral-omnimind-badge.png)](https://mseep.ai/app/techiral-omnimind)
+
 <picture>
   <img alt="" src="static/image (1).png"  width="full">
 </picture>
